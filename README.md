@@ -25,8 +25,8 @@ The dataset (`marketing_data.csv`) contains the following columns:
 ## Project Structure
 
 
-Marketing-Campaigns/
-├── data/ # Folder for datasets
+-**Marketing-Campaigns/**
+_**├── data/ # Folder for datasets**
 │ └── marketing_data.csv # Dataset file
 ├── notebooks/ # Folder for Jupyter notebooks
 │ └── marketing_campaign_analysis.ipynb # Main analysis notebook
