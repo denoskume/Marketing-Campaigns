@@ -33,5 +33,5 @@ Marketing-Campaigns/
 ├── scripts/             # Folder for Python scripts (optional)
 ├── outputs/             # Folder for analysis outputs (e.g., plots, reports)
 ├── README.md            # Project description and instructions
-└── requirements.txt     # List of dependencies ```
+└── requirements.txt     # List of dependencies 
 
