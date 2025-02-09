@@ -24,7 +24,7 @@ The dataset (`marketing_data.csv`) contains the following columns:
 
 ## Project Structure
 
-
+```
 Marketing-Campaigns/
 ├── data/                # Folder for datasets
 │   └── marketing_data.csv  # Dataset file
@@ -33,5 +33,5 @@ Marketing-Campaigns/
 ├── scripts/             # Folder for Python scripts (optional)
 ├── outputs/             # Folder for analysis outputs (e.g., plots, reports)
 ├── README.md            # Project description and instructions
-└── requirements.txt     # List of dependencies
+└── requirements.txt     # List of dependencies ```
 
